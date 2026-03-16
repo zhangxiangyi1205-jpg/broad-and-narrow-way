@@ -1,0 +1,11 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://zhangxiangyi1205-jpg.github.io/broad-and-narrow-way/images/manifest.json",
+    "type": "Manifest",
+    "label": {
+        "en": [
+            "All images loaded in zhangxiangyi1205-jpg/broad-and-narrow-way project"
+        ]
+    },
+    "items": []
+}
