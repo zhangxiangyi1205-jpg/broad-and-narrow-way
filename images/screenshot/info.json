@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 45,
+    "height" : 38
+  }, {
+    "width" : 90,
+    "height" : 76
+  }, {
+    "width" : 179,
+    "height" : 151
+  }, {
+    "width" : 357,
+    "height" : 302
+  }, {
+    "width" : 714,
+    "height" : 603
+  }, {
+    "width" : 1428,
+    "height" : 1206
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1428,
+  "@id" : "https://zhangxiangyi1205-jpg.github.io/broad-and-narrow-way/images/screenshot",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1206
+}
